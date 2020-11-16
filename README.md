@@ -1,6 +1,6 @@
 # POC
 
-A new Flutter project.
+A new Flutter project to learn basic, maybe advanced level of flutter technology.
 
 ## Getting Started
 
